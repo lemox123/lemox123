@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2023-08-10T05:13:44.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="21.6.7" etag="TQ7WR8ttFdIog2Y_E9eN" type="github">
+  <diagram name="Страница — 1" id="yC9vFjSjstlGDaQVkaRi">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Начало" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry width="68" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Подготовка необходимых документов" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="118" width="296" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Подача заявления" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="464" width="149" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Проверка документов" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="663" width="177" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Выплата возврата" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" width="146" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Конец" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1086" width="60" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0026884639964384;exitY=0.5060606291799834;entryX=0.0006176201072899071;entryY=0.5060606291799834;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9997730255126953;exitY=0.5060606291799834;entryX=-0.00045090233719588925;entryY=0.5060606291799834;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0001364074297399;exitY=0.5060606291799834;entryX=0.00011482885328389831;entryY=0.5060606291799834;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9981374794480491;exitY=0.5060606291799834;entryX=-0.0022579872444884416;entryY=0.5060606291799834;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9994543415226348;exitY=0.5060606291799834;entryX=-0.0013277689615885417;entryY=0.5060606291799834;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
